@@ -1,1 +1,2 @@
 Update Available
+curl -sL https://github.com/khansaad1275/learntermux.tech/blob/main/CheckupdateAPI.txt?raw=true
